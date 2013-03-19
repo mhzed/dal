@@ -14,7 +14,7 @@
     "ORM"
   ],
   "description": "A relation-ship aware database access layer",
-  "homepage": "http://mhzed.com/dal",
+  "homepage": "https://github.com/mhzed/dal",
   "bugs": {
     "email": "mhzedd@gmail.com"
   },
